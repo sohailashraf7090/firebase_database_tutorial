@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886131455687",
+    "project_id": "fir-project-86d51",
+    "storage_bucket": "fir-project-86d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886131455687:android:5c86a7a386ad22338130e2",
+        "android_client_info": {
+          "package_name": "com.teachease.dumy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886131455687-h6dftj5otgabpac5oqt7unnpurtnr3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-KT6rEZRHn1Df94b3hhSBH5zvxdR9hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886131455687-h6dftj5otgabpac5oqt7unnpurtnr3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
